@@ -3,7 +3,7 @@ name = "SigmaOS-yazi"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "yazi component"
+description = "SigmaOS SigmaOS-yazi component"
 upstream = []
 
 [contract]
